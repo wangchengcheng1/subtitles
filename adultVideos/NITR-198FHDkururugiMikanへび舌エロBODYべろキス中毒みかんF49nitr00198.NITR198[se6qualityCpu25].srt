@@ -2,7 +2,7 @@
 00:00:05,940 --> 00:00:06,300
 Oh
 
-2
+
 00:01:21,320 --> 00:01:21,920
 What's wrong?
 
@@ -52,15 +52,15 @@ Then let's talk.
 
 14
 00:01:48,230 --> 00:01:53,850
-I think I'm getting used to it, and I think I'm starting to talk more and more.
+
 
 15
 00:01:55,010 --> 00:01:55,810
 Is that so?
 
 16
-00:01:56,270 --> 00:02:07,470
-No, I don't think so. It's not so much about the schedule, it's about your true form.
+00:01:56,270 --> 00:02:04,270
+
 
 17
 00:02:08,630 --> 00:02:11,430
@@ -271,12 +271,12 @@ Which one do you think is the most popular?
 Hmm...
 
 69
-00:04:40,280 --> 00:04:48,480
+00:04:40,280 --> 00:04:48,280
 I think the number of models I've worked with so far is the most popular.
 
 70
 00:04:50,180 --> 00:04:53,100
-But I think the number of models I've worked with so far is the most popular.
+
 
 71
 00:04:53,100 --> 00:04:53,660
@@ -475,7 +475,7 @@ Does he look like an S?
 I wonder.
 
 120
-00:07:15,380 --> 00:07:24,680
+00:07:15,380 --> 00:07:23,380
 How do you do it? Is it the most charming one?
 
 121
@@ -795,8 +795,8 @@ Oh, it's scary to stop here, isn't it?
 Oh, it's scary to stop here, isn't it?
 
 200
-00:11:12,120 --> 00:11:43,720
-It's not only the tongue, but it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the tongue, it's not only the
+00:11:12,120 --> 00:11:20,120
+
 
 201
 00:11:43,720 --> 00:11:44,840
@@ -1047,7 +1047,7 @@ You are a good person.
 I want to see you.
 
 263
-00:15:14,130 --> 00:15:32,490
+00:15:14,130 --> 00:15:22,130
 I want to see you.
 
 264
@@ -1195,11 +1195,11 @@ That's a good one.
 It's good, isn't it?
 
 300
-00:19:38,970 --> 00:19:48,100
+00:19:38,970 --> 00:19:46,970
 It's good, isn't it?
 
 301
-00:20:00,070 --> 00:20:19,480
+00:20:00,070 --> 00:20:08,070
 Are you going to eat this?
 
 302
@@ -1259,7 +1259,7 @@ It stopped.
 It's the 10th floor, isn't it?
 
 316
-00:22:24,000 --> 00:22:32,600
+00:22:24,000 --> 00:22:32,000
 Management company.
 
 317
@@ -1315,7 +1315,7 @@ What should I do?
 Can you move it a little bit?
 
 330
-00:23:15,060 --> 00:23:27,300
+00:23:15,060 --> 00:23:23,060
 It doesn't move.
 
 331
@@ -1323,7 +1323,7 @@ It doesn't move.
 There's no pressure button.
 
 332
-00:23:30,420 --> 00:23:42,850
+00:23:30,420 --> 00:23:38,420
 I wonder where it is.
 
 333
@@ -1467,7 +1467,7 @@ I feel like I'm getting used to it.
 I agree.
 
 368
-00:25:40,780 --> 00:25:49,810
+00:25:40,780 --> 00:25:48,780
 I just bought some water.
 
 369
@@ -1495,7 +1495,7 @@ How are you feeling?
 I'm in trouble. I can't reach you.
 
 375
-00:26:40,290 --> 00:26:50,810
+00:26:40,290 --> 00:26:48,290
 What should I do?
 
 376
@@ -1503,7 +1503,7 @@ What should I do?
 I'll wait for you.
 
 377
-00:27:22,090 --> 00:27:39,760
+00:27:22,090 --> 00:27:30,090
 Isn't it hot?
 
 378
@@ -1575,7 +1575,7 @@ I don't know if it's because of dehydration.
 Yes, it is.
 
 395
-00:28:51,770 --> 00:29:01,040
+00:28:51,770 --> 00:28:59,770
 What are you doing?
 
 396
@@ -1611,7 +1611,7 @@ It's hot, isn't it?
 I'm sweating so much.
 
 404
-00:33:07,360 --> 00:33:28,430
+00:33:07,360 --> 00:33:15,360
 I'm sweating so much right now.
 
 405
@@ -1623,8 +1623,8 @@ What's wrong?
 My body is shaking.
 
 407
-00:34:47,910 --> 00:36:58,800
-Um, um, um, um, um, um, um, um, um, um, um, um, um, um, um, um, um, um, um, um, um,
+00:34:47,910 --> 00:34:55,910
+
 
 408
 00:37:08,850 --> 00:37:15,790
@@ -1663,11 +1663,11 @@ I'm scared.
 I'm scared.
 
 417
-00:40:30,380 --> 00:40:44,050
+00:40:30,380 --> 00:40:38,380
 I'm scared.
 
 418
-00:40:46,170 --> 00:40:59,860
+00:40:46,170 --> 00:40:54,170
 I'm scared.
 
 419
@@ -1747,11 +1747,11 @@ I'm going to have to go to the bathroom and get it fixed.
 I'm going to have to go to the bathroom and get it fixed.
 
 438
-00:44:56,050 --> 00:45:08,920
+00:44:56,050 --> 00:45:04,050
 I'm going to have to go to the bathroom and get it fixed.
 
 439
-00:45:08,920 --> 00:45:36,160
+00:45:08,920 --> 00:45:16,920
 I'm going to have to go to the bathroom and get it fixed.
 
 440
@@ -1787,7 +1787,7 @@ It's delicious.
 It's good, it's really good.
 
 448
-00:46:51,800 --> 00:47:01,240
+00:46:51,800 --> 00:46:59,800
 Does it feel good?
 
 449
@@ -1799,7 +1799,7 @@ What's going on?
 I can't breathe.
 
 451
-00:47:18,730 --> 00:47:28,250
+00:47:18,730 --> 00:47:26,730
 What's going on?
 
 452
@@ -1811,8 +1811,8 @@ What's going on?
 I can't breathe.
 
 454
-00:48:52,460 --> 00:49:04,040
-I don't know if you can hear me or not, but I can't hear you, so I'm going to turn the volume down a little bit, so you can hear me.
+00:48:52,460 --> 00:49:00,460
+
 
 455
 00:49:27,520 --> 00:49:29,800
@@ -1871,31 +1871,31 @@ I'm going to have to have a lot of ramen.
 I'm so nervous.
 
 469
-00:50:16,300 --> 00:50:40,870
+00:50:16,300 --> 00:50:24,300
 I'm so nervous.
 
 470
-00:50:55,310 --> 00:51:07,520
-Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+00:50:55,310 --> 00:51:03,310
+
 
 471
 00:51:07,520 --> 00:51:08,380
-oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 472
 00:51:08,380 --> 00:51:10,060
-oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 473
 00:51:10,060 --> 00:51:20,980
-oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 474
 00:51:20,980 --> 00:51:25,060
 Ah, I have a lot of dark circles on my eyes.
 
 475
-00:51:48,580 --> 00:51:58,910
+00:51:48,580 --> 00:51:56,580
 What a waste.
 
 476
@@ -1911,7 +1911,7 @@ It's so scary.
 What are you doing?
 
 479
-00:53:20,580 --> 00:53:32,000
+00:53:20,580 --> 00:53:28,580
 I'm lonely.
 
 480
@@ -1923,7 +1923,7 @@ No, no.
 This is not good.
 
 482
-00:53:43,690 --> 00:53:51,820
+00:53:43,690 --> 00:53:51,690
 This is not good.
 
 483
@@ -1939,7 +1939,7 @@ How are you feeling?
 Please stop.
 
 486
-00:54:12,340 --> 00:54:56,960
+00:54:12,340 --> 00:54:20,340
 Mr. Takahashi, I'm a little lonely.
 
 487
@@ -1947,8 +1947,8 @@ Mr. Takahashi, I'm a little lonely.
 I know that, but...
 
 488
-00:55:15,830 --> 00:56:46,990
-I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore, I can't hold it in anymore
+00:55:15,830 --> 00:55:23,830
+
 
 489
 00:56:46,990 --> 00:56:47,430
@@ -1967,7 +1967,7 @@ Oh, my God.
 Oh, my God.
 
 493
-00:59:29,570 --> 01:00:33,780
+00:59:29,570 --> 00:59:37,570
 I love you so much.
 
 494
@@ -2031,11 +2031,11 @@ I think you're going to want to lick your dad's gimbap.
 I'm going to make your dad's gimbap messy.
 
 509
-01:02:32,600 --> 01:03:00,760
+01:02:32,600 --> 01:02:40,600
 Your gimbap is delicious.
 
 510
-01:03:28,200 --> 01:03:47,200
+01:03:28,200 --> 01:03:36,200
 I'm sorry, I'm sorry, I'm sorry, I'm sorry.
 
 511
@@ -2055,7 +2055,7 @@ It looks good.
 Looks like you're feeling good.
 
 515
-01:04:45,050 --> 01:05:23,480
+01:04:45,050 --> 01:04:53,050
 I'll give you a lot of
 
 516
@@ -2067,7 +2067,7 @@ It feels good, doesn't it?
 Are you feeling hot and ticklish?
 
 518
-01:06:19,100 --> 01:06:27,200
+01:06:19,100 --> 01:06:27,100
 Do you feel like you're drooling?
 
 519
@@ -2087,7 +2087,7 @@ How is it?
 How do you feel?
 
 523
-01:07:52,640 --> 01:08:01,250
+01:07:52,640 --> 01:08:00,640
 My cheeks are so puffy and my nipples are so flat.
 
 524
@@ -2103,12 +2103,12 @@ How do you feel?
 Does this feel good?
 
 527
-01:08:36,060 --> 01:09:09,540
+01:08:36,060 --> 01:08:44,060
 Does it feel good to be tickled?
 
 528
-01:09:17,180 --> 01:10:34,260
-Ah, ah, ah, ah, ah, ah, ah, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
+01:09:17,180 --> 01:09:25,180
+
 
 529
 01:10:34,260 --> 01:10:37,180
@@ -2139,15 +2139,15 @@ My butt is so tight.
 Does it feel good?
 
 536
-01:11:43,320 --> 01:12:05,000
+01:11:43,320 --> 01:11:51,320
 My butt is so tight.
 
 537
-01:12:43,330 --> 01:12:52,910
+01:12:43,330 --> 01:12:51,330
 Do you want me to let go of your hand?
 
 538
-01:13:04,150 --> 01:13:21,930
+01:13:04,150 --> 01:13:12,150
 I can hear the sound of your breath.
 
 539
@@ -2179,11 +2179,11 @@ I don't want to do it.
 I don't want to do it.
 
 546
-01:14:38,520 --> 01:14:51,780
+01:14:38,520 --> 01:14:46,520
 I don't want to do it.
 
 547
-01:14:52,340 --> 01:15:01,560
+01:14:52,340 --> 01:15:00,340
 I don't want to do it.
 
 548
@@ -2191,7 +2191,7 @@ I don't want to do it.
 I don't want to do it.
 
 549
-01:15:06,410 --> 01:15:15,080
+01:15:06,410 --> 01:15:14,410
 I don't want to do it.
 
 550
@@ -2215,7 +2215,7 @@ I don't want to do it.
 I don't want to do it.
 
 555
-01:15:24,240 --> 01:15:32,940
+01:15:24,240 --> 01:15:32,240
 I don't want to do it.
 
 556
@@ -2239,7 +2239,7 @@ Ah, it's so embarrassing.
 Ah, it's so uncomfortable.
 
 561
-01:15:57,630 --> 01:16:11,360
+01:15:57,630 --> 01:16:05,630
 Ah, it's so uncomfortable.
 
 562
@@ -2251,7 +2251,7 @@ Please look at me for a moment.
 It feels so good.
 
 564
-01:16:32,350 --> 01:16:52,180
+01:16:32,350 --> 01:16:40,350
 Does your stomach feel good?
 
 565
@@ -2275,12 +2275,12 @@ I hope you feel better.
 Amazing.
 
 570
-01:17:22,030 --> 01:17:35,830
-Ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah,
+01:17:22,030 --> 01:17:30,030
+
 
 571
 01:17:35,830 --> 01:18:00,460
-ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah,
+
 
 572
 01:18:00,460 --> 01:18:03,560
@@ -2303,15 +2303,15 @@ It's a place where you can feel good.
 It's embarrassing.
 
 577
-01:18:37,070 --> 01:21:42,770
-I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry.
+01:18:37,070 --> 01:18:45,070
+
 
 578
 01:22:11,310 --> 01:22:15,870
 I don't know what to do.
 
 579
-01:22:34,570 --> 01:22:59,290
+01:22:34,570 --> 01:22:42,570
 Oh
 
 580
@@ -2319,7 +2319,7 @@ Oh
 I don't know what I'm doing
 
 581
-01:23:32,130 --> 01:23:43,300
+01:23:32,130 --> 01:23:40,130
 I'm so tired
 
 582
@@ -2351,7 +2351,7 @@ I feel good, too.
 I feel like my legs are going to fall off.
 
 589
-01:28:56,090 --> 01:29:14,260
+01:28:56,090 --> 01:29:04,090
 Do you feel better?
 
 590
@@ -2375,7 +2375,7 @@ Like this?
 I thought I would do it with my other hand.
 
 595
-01:29:30,780 --> 01:29:38,870
+01:29:30,780 --> 01:29:38,780
 Do you want me to do it with my other hand?
 
 596
@@ -2411,7 +2411,7 @@ It feels good.
 It feels good.
 
 604
-01:30:41,900 --> 01:30:54,270
+01:30:41,900 --> 01:30:49,900
 I can feel it.
 
 605
@@ -2431,7 +2431,7 @@ Do you want me to rub your head?
 Yes, please.
 
 609
-01:31:12,970 --> 01:31:29,110
+01:31:12,970 --> 01:31:20,970
 Hold my hand.
 
 610
@@ -2527,16 +2527,16 @@ Did you sleep well?
 Yes.
 
 633
-01:35:32,920 --> 01:35:43,200
+01:35:32,920 --> 01:35:40,920
 It feels good.
 
 634
-01:35:43,540 --> 01:35:52,000
+01:35:43,540 --> 01:35:51,540
 It feels good.
 
 635
-01:38:03,370 --> 01:38:54,050
-It's been a long time since I've been on a diet, so I feel like I'm on a diet, but it's been a long time since I've been on a diet, so I feel like I'm on a diet, but it's been a long time since I've been on a diet, so I feel like I'm on a diet, but it's been a long time since I've been on a diet, so I feel like I'm on a diet, but it's been a long time since I've been on a diet, so I feel like I'm on a diet, but it's been a long time since I've been on a diet, so I feel like I'm on a diet, but it's been a long time since I've been on a diet, so I feel like I'm on a diet, but it's been a long time since I've been on a diet, so I feel like I'm on a diet, but it's been a long time since I've been on a diet, so I feel like I'm on a diet
+01:38:03,370 --> 01:38:11,370
+
 
 636
 01:38:54,050 --> 01:38:55,350
@@ -2607,7 +2607,7 @@ Oh, that's great.
 Chin-chin is coming back to me.
 
 653
-01:39:36,300 --> 01:39:48,030
+01:39:36,300 --> 01:39:44,300
 Can I pat you on the back?
 
 654
@@ -2695,12 +2695,12 @@ Tintin is very shiny.
 Okay.
 
 675
-01:41:33,980 --> 01:42:09,060
+01:41:33,980 --> 01:41:41,980
 Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.
 
 676
-01:42:11,240 --> 01:42:52,700
-Ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah.
+01:42:11,240 --> 01:42:19,240
+
 
 677
 01:43:11,600 --> 01:43:22,820
@@ -2727,8 +2727,8 @@ I can't breathe.
 I can't breathe.
 
 683
-01:43:58,140 --> 01:45:08,550
-Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah
+01:43:58,140 --> 01:44:06,140
+
 
 684
 01:45:26,660 --> 01:46:06,580
@@ -2739,7 +2739,7 @@ Thank you.
 Oh, my God.
 
 686
-01:49:24,120 --> 01:49:39,220
+01:49:24,120 --> 01:49:32,120
 Oh
 
 687
@@ -2775,8 +2775,8 @@ Ah, it's so good.
 It's so good.
 
 695
-01:58:22,180 --> 01:58:55,780
-Ah, ah, ah, ah, ah, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh
+01:58:22,180 --> 01:58:30,180
+
 
 696
 01:58:55,780 --> 01:59:07,250
@@ -2835,12 +2835,12 @@ Oh.
 Oh.
 
 710
-01:59:50,770 --> 02:00:18,610
+01:59:50,770 --> 01:59:58,770
 Oh
 
 711
-02:01:10,940 --> 02:01:22,300
-I can't believe my eyes, oh my god, oh my god, oh my god, oh my god, oh my god, oh my
+02:01:10,940 --> 02:01:18,940
+
 
 712
 02:01:22,300 --> 02:01:33,670
@@ -2855,19 +2855,19 @@ Oh
 One, two, three, four.
 
 715
-02:06:54,180 --> 02:08:13,020
+02:06:54,180 --> 02:07:02,180
 I can't breathe.
 
 716
-02:08:13,240 --> 02:08:26,720
+02:08:13,240 --> 02:08:21,240
 I can't breathe.
 
 717
-02:08:42,090 --> 02:09:44,810
+02:08:42,090 --> 02:08:50,090
 I can't breathe.
 
 718
-02:09:45,230 --> 02:10:25,280
+02:09:45,230 --> 02:09:53,230
 I can't breathe.
 
 719
@@ -2911,27 +2911,27 @@ I can't breathe.
 Oh
 
 729
-02:15:00,880 --> 02:16:00,720
-Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+02:15:00,880 --> 02:15:08,880
+
 
 730
 02:16:00,820 --> 02:16:24,090
-oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 731
 02:16:24,090 --> 02:17:45,040
-oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 732
 02:18:16,600 --> 02:18:28,510
 I don't know what to do.
 
 733
-02:19:51,390 --> 02:20:10,980
+02:19:51,390 --> 02:19:59,390
 I want you to put it in here.
 
 734
-02:20:12,000 --> 02:22:48,720
+02:20:12,000 --> 02:20:20,000
 I want you to put it in here.
 
 735
@@ -3027,6 +3027,5 @@ It's all right, it's all right.
 I'm so full.
 
 758
-02:26:05,260 --> 02:26:28,460
+02:26:05,260 --> 02:26:13,260
 Oh, my God.
-
