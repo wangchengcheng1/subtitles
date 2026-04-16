@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:18,000
+00:00:00,000 --> 00:00:08,000
 How do I look?
 
 
@@ -43,7 +43,7 @@ Yes, of course.
 Hello Bridget.
 
 12
-00:00:45,000 --> 00:00:55,000
+00:00:45,000 --> 00:00:53,000
 
 
 13
@@ -67,11 +67,11 @@ But being alone can get lonely, so...
 If you need anything, anything at all, you know where to find us.
 
 18
-00:01:17,000 --> 00:01:39,000
+00:01:17,000 --> 00:01:25,000
 Wait, um, would you two like to come in for some tea?
 
 19
-00:01:39,000 --> 00:02:07,360
+00:01:39,000 --> 00:01:47,000
 
 
 20
@@ -83,7 +83,7 @@ Wait, um, would you two like to come in for some tea?
 the rest of the house it's just lovely you have exquisite taste
 
 22
-00:02:21,320 --> 00:02:34,560
+00:02:21,320 --> 00:02:29,320
 
 
 23
@@ -231,7 +231,7 @@ Ray is very choosy.
 What can I say? I have a very specific taste.
 
 59
-00:04:56,080 --> 00:05:05,840
+00:04:56,080 --> 00:05:04,080
 taste. If Rhea's got his eye on you, you know you're something special.
 
 60
@@ -311,7 +311,7 @@ About what?
 About your needs.
 
 79
-00:06:16,320 --> 00:06:26,320
+00:06:16,320 --> 00:06:24,320
 
 
 80
@@ -371,7 +371,7 @@ Yes.
 Yes.
 
 94
-00:07:36,320 --> 00:07:56,320
+00:07:36,320 --> 00:07:44,320
 oh my goodness, it hurts so bad
 
 95
@@ -539,11 +539,11 @@ I love you guys so much, and I hope you're having a great day!
 I love you guys so much, and I hope you're having a great day!
 
 136
-00:09:19,320 --> 00:09:48,360
+00:09:19,320 --> 00:09:27,320
 oh my god, it's so hot
 
 137
-00:09:48,360 --> 00:09:57,360
+00:09:48,360 --> 00:09:56,360
 
 
 138
@@ -759,11 +759,11 @@ Fuck.
 Oh, yes.
 
 191
-00:12:27,100 --> 00:12:54,100
+00:12:27,100 --> 00:12:35,100
 Oh my god, it's such a pretty young cup.
 
 192
-00:12:54,100 --> 00:13:05,100
+00:12:54,100 --> 00:13:02,100
 
 
 193
@@ -1191,7 +1191,7 @@ Oh.
 Oh.
 
 299
-00:19:11,060 --> 00:19:35,060
+00:19:11,060 --> 00:19:19,060
 
 
 300
@@ -1335,7 +1335,7 @@ mm
 mm
 
 335
-00:21:02,060 --> 00:21:22,060
+00:21:02,060 --> 00:21:10,060
 
 
 336
@@ -1379,7 +1379,7 @@ Oh my god.
 Yes! Yes. Yes, yes, yes ...
 
 346
-00:22:02,660 --> 00:22:14,080
+00:22:02,660 --> 00:22:10,660
 Yes, yes, yes, yes, yes, yes, yes.
 
 347
@@ -1531,7 +1531,7 @@ I'm going to cry...
 Oh
 
 384
-00:23:22,120 --> 00:23:31,300
+00:23:22,120 --> 00:23:30,120
 Yes, speak! Speak, my ass! Speak, my ass!
 
 385
@@ -1767,7 +1767,7 @@ Oh god, I'm so bad.
 Oh fucking...
 
 443
-00:25:30,100 --> 00:25:45,100
+00:25:30,100 --> 00:25:38,100
 
 
 444
@@ -1799,7 +1799,7 @@ Oh my god yes.
 I can't breathe.
 
 451
-00:27:55,100 --> 00:28:17,100
+00:27:55,100 --> 00:28:03,100
 Oh my god, I want you to let me over now, okay?
 
 452
@@ -1943,7 +1943,7 @@ Fuck.
 Oh.
 
 487
-00:28:46,600 --> 00:29:15,600
+00:28:46,600 --> 00:28:54,600
 
 
 488
@@ -2159,7 +2159,7 @@ ahh oh my god
 yes yes
 
 541
-00:31:09,600 --> 00:31:19,600
+00:31:09,600 --> 00:31:17,600
 oh oh oh my god yes oh fuck
 
 542
@@ -2187,7 +2187,7 @@ Oh shit! Oh my god, yes!
 Oh my god, get down there and eat it.
 
 548
-00:32:07,600 --> 00:32:35,600
+00:32:07,600 --> 00:32:15,600
 
 
 549
@@ -2635,7 +2635,7 @@ Oh my god.
 Yes.
 
 660
-00:39:18,460 --> 00:39:33,460
+00:39:18,460 --> 00:39:26,460
 
 
 661
@@ -2643,7 +2643,7 @@ Yes.
 Oh, fuck, yes, oh, my God.
 
 662
-00:39:41,460 --> 00:40:03,460
+00:39:41,460 --> 00:39:49,460
 
 
 663
@@ -2703,7 +2703,7 @@ Oh my god.
 Oh my god.
 
 677
-00:40:55,460 --> 00:41:15,700
+00:40:55,460 --> 00:41:03,460
 
 
 678
@@ -2761,4 +2761,3 @@ Thank you.
 691
 00:42:48,980 --> 00:42:50,980
 You
-

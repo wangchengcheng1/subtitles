@@ -1,10 +1,10 @@
 1
-00:00:13,880 --> 00:00:36,480
-So finally! Hi! How are you doing? I'm well. I have something for you. Oh, thank you. Oh, you're welcome. You know I love pineapple juice. Yes, from our, from our, from our, uh, from our conversations online. I remember that. Yes, oh my gosh, after all these years. Yes, wow. Finally meeting my pen pal in person. Oh my gosh, I can't believe it. How have you been?
+00:00:13,880 --> 00:00:21,880
 
-2
+
+
 00:00:36,480 --> 00:00:43,400
-pretty good I mean better now that I'm fine I finally get to see you in person
+
 
 3
 00:00:43,400 --> 00:00:51,220
@@ -12,11 +12,11 @@ yeah how are you liking America uh-huh very very nice yeah it's really hot
 
 4
 00:00:51,220 --> 00:00:55,940
-right now so I don't know if you're used to that well you're very hot right no
+
 
 5
 00:00:55,940 --> 00:01:06,460
-hotter than the weather no definitely I'm I'm feeling the heat so what was you
+
 
 6
 00:01:06,960 --> 00:01:12,420
@@ -24,11 +24,11 @@ know how are you feeling right now very hot it's very sunny outside I was
 
 7
 00:01:12,420 --> 00:01:16,620
-thinking maybe we could go somewhere else later on but for now this is fine I
+
 
 8
 00:01:16,620 --> 00:01:23,400
-have my pineapple juice I'm feeling cool down now thanks to you yes okay cheers
+
 
 9
 00:01:23,400 --> 00:01:23,920
@@ -60,7 +60,7 @@ They're doing well.
 
 16
 00:01:38,600 --> 00:01:44,820
-I wrote about them the last time, so you know, all the last drama and details, you know,
+
 
 17
 00:01:44,820 --> 00:01:45,780
@@ -76,7 +76,7 @@ I just want to go visit them.
 
 20
 00:01:48,000 --> 00:01:52,960
-Are they a little bit better with the idea of you going out with an Asian man?
+
 
 21
 00:01:53,360 --> 00:01:55,740
@@ -120,39 +120,39 @@ But they don't know the whole background story.
 
 31
 00:02:13,340 --> 00:02:18,620
-so yeah maybe once we hang out a little bit and get to know each other like in person
+
 
 32
 00:02:19,740 --> 00:02:23,680
-they'll understand a little more they just don't get it they wouldn't understand well
+
 
 33
 00:02:23,680 --> 00:02:29,380
-eventually we're gonna we may have to broach that subject you know we can talk about it more
+
 
 34
 00:02:29,380 --> 00:02:39,500
-somewhere else if you want oh i really love the bow on your hair so feminine thank you i kind of
+
 
 35
 00:02:39,500 --> 00:02:45,580
-of went a little over top today. No you didn't. I just wanted to be a little extra and look super
+
 
 36
 00:02:45,580 --> 00:02:49,940
-cute for you. And the color. Since it's like the first time meeting in person. And the colors that
+
 
 37
 00:02:49,940 --> 00:02:57,140
-you've chosen, oh they're just so feminine. Just wait until you see the underneath. It gets even better.
+
 
 38
 00:02:57,420 --> 00:03:04,020
-Uh-oh. Sounds like trouble already. Maybe. You're gonna have to find out for yourself. Well I guess all that time
+
 
 39
 00:03:04,020 --> 00:03:13,480
-that we spent talking on you know it is led up to this yes and I can feel the
+
 
 40
 00:03:13,480 --> 00:03:17,240
@@ -160,31 +160,31 @@ tension in the air if you know what I mean the tension and the slight
 
 41
 00:03:17,240 --> 00:03:22,680
-nervousness oh I'm not nervous a bit I'm a little shy I'm raring to go well
+
 
 42
 00:03:24,000 --> 00:03:31,260
-we'll see how shy you are I don't know some I can get a little crazy sometimes
+
 
 43
 00:03:31,260 --> 00:03:41,200
-times but crazy's good crazy's good shy and shy in public crazy in private oh isn't there an
+
 
 44
 00:03:41,200 --> 00:03:46,660
-american song that goes something like um a lady in the street and a freak in the sheets oh for
+
 
 45
 00:03:46,660 --> 00:03:53,240
-sure something like that that's definitely that describes me perfectly oh melody the freak i'm
+
 
 46
 00:03:53,240 --> 00:03:58,100
-intrigued yeah you only know me for my letters you don't know me in real life yeah well
+
 
 47
 00:04:02,760 --> 00:04:10,860
-your letters that certainly certainly certainly have things heated up at this
+
 
 48
 00:04:10,860 --> 00:04:21,860
@@ -267,8 +267,8 @@ Glad you like it.
 Very neat.
 
 68
-00:04:58,030 --> 00:05:07,510
-So now we're going to take these pictures so when we go back home, we have something to remind me of.
+00:04:58,030 --> 00:05:06,030
+
 
 69
 00:05:07,650 --> 00:05:08,350
@@ -355,8 +355,8 @@ We've done quite a bit.
 You want to remember me in other ways?
 
 90
-00:06:17,490 --> 00:06:26,870
-Oh yes, we've built quite a bit of tension going on between us, all this time we've been corresponding.
+00:06:17,490 --> 00:06:25,490
+
 
 91
 00:06:28,250 --> 00:06:33,110
@@ -424,7 +424,7 @@ Please. Pretty please.
 
 107
 00:07:54,290 --> 00:07:58,570
-You never got pictures of them, but seeing them in person is pretty good too, huh?
+
 
 108
 00:08:00,110 --> 00:08:00,810
@@ -567,7 +567,7 @@ See, you didn't need that.
 Definitely the motivation you needed.
 
 143
-00:12:58,230 --> 00:13:15,760
+00:12:58,230 --> 00:13:06,230
 Well, how do we take this
 
 144
@@ -647,7 +647,7 @@ Oh, I feel good now.
 Oh my gracious, look up in there.
 
 163
-00:14:30,820 --> 00:14:48,320
+00:14:30,820 --> 00:14:38,820
 Do you want me to open up your hand?
 
 164
@@ -695,7 +695,7 @@ There you go.
 Don't look at me.
 
 175
-00:16:03,200 --> 00:16:16,150
+00:16:03,200 --> 00:16:11,200
 Head down, ass up.
 
 176
@@ -711,7 +711,7 @@ Feel your eyes on me.
 I see that face.
 
 179
-00:16:51,480 --> 00:17:02,840
+00:16:51,480 --> 00:16:59,480
 It's so hot.
 
 180
@@ -751,8 +751,8 @@ Wait, can I touch it?
 Of course.
 
 189
-00:17:53,710 --> 00:18:13,130
-I'm asking after the fact, but this is what you've been waiting for, oh shit, I think
+00:17:53,710 --> 00:18:01,710
+
 
 190
 00:18:18,600 --> 00:18:20,240
@@ -775,7 +775,7 @@ Where's your bedroom at?
 Okay, so let's go.
 
 195
-00:18:49,940 --> 00:19:04,380
+00:18:49,940 --> 00:18:57,940
 The two of us.
 
 196
@@ -783,7 +783,7 @@ The two of us.
 My little blonde princess.
 
 197
-00:19:08,660 --> 00:19:34,030
+00:19:08,660 --> 00:19:16,660
 I feel so good.
 
 198
@@ -795,7 +795,7 @@ Making me tear up.
 I'm gonna scoot back a little bit.
 
 200
-00:21:20,970 --> 00:21:50,950
+00:21:20,970 --> 00:21:28,970
 I
 
 201
@@ -807,7 +807,7 @@ They look so full and ready for me to train.
 I want to drain them all into your pussy
 
 203
-00:22:40,690 --> 00:22:49,330
+00:22:40,690 --> 00:22:48,690
 I know it's exactly what you want
 
 204
@@ -815,12 +815,12 @@ I know it's exactly what you want
 Like I'm making a mess
 
 205
-00:23:11,120 --> 00:23:29,120
-oh shit oh god oh oh oh fuck oh shit oh my god oh you're gonna make me lose it too soon i don't
+00:23:11,120 --> 00:23:19,120
+
 
 206
 00:23:29,120 --> 00:23:35,860
-want to blow it in your mouth yeah i want it in your pussy right now i want it right in your hole
+
 
 207
 00:23:39,140 --> 00:23:41,400
@@ -843,7 +843,7 @@ That's not fair.
 I got you.
 
 212
-00:24:00,770 --> 00:24:15,050
+00:24:00,770 --> 00:24:08,770
 That tickles.
 
 213
@@ -851,7 +851,7 @@ That tickles.
 That tickles.
 
 214
-00:24:22,040 --> 00:24:33,100
+00:24:22,040 --> 00:24:30,040
 I need to see your skills.
 
 215
@@ -939,7 +939,7 @@ It's so tight.
 It's okay.
 
 236
-00:26:00,330 --> 00:26:19,520
+00:26:00,330 --> 00:26:08,330
 Oh, you are such a tease.
 
 237
@@ -996,7 +996,7 @@ Calm down.
 
 250
 00:28:00,960 --> 00:28:06,240
-You're just hitting all the right spots, and I can't control my legs or my body right now.
+
 
 251
 00:28:06,340 --> 00:28:07,800
@@ -1007,8 +1007,8 @@ Oh, fuck!
 Is that your cervix, baby?
 
 253
-00:28:32,090 --> 00:29:07,990
-yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah
+00:28:32,090 --> 00:28:40,090
+
 
 254
 00:29:12,450 --> 00:29:14,170
@@ -1031,11 +1031,11 @@ I'll help you with this one.
 My toes are ticklish.
 
 259
-00:29:49,390 --> 00:29:59,620
+00:29:49,390 --> 00:29:57,390
 Oh god, that both of them.
 
 260
-00:30:02,970 --> 00:30:11,390
+00:30:02,970 --> 00:30:10,970
 I'm so heavy.
 
 261
@@ -1123,8 +1123,8 @@ Yeah, shove your cuck to me, I'm sorry.
 I just want to make your cuck feel good.
 
 282
-00:31:05,520 --> 00:31:27,150
-Oh, oh fuck, oh god, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+00:31:05,520 --> 00:31:13,520
+
 
 283
 00:31:27,150 --> 00:31:28,610
@@ -1147,7 +1147,7 @@ I know you want to feel good.
 I know you just want to use my cute little body.
 
 288
-00:31:42,460 --> 00:31:52,120
+00:31:42,460 --> 00:31:50,460
 Just make your cock throw a mess out of me.
 
 289
@@ -1228,15 +1228,15 @@ yeah oh I can feel
 
 308
 00:32:43,490 --> 00:32:50,430
-all the wet juices oh my god dripping out of my pussy every thrust you make it's so hot
+
 
 309
 00:32:57,290 --> 00:32:59,210
 i'm getting wetter every thrust
 
 310
-00:32:59,210 --> 00:33:54,480
-Oh, they're so sensitive when I'm horny, oh, I'm coming back for seconds, ah, ah, yeah,
+00:32:59,210 --> 00:33:07,210
+
 
 311
 00:33:57,840 --> 00:33:59,740
@@ -1255,16 +1255,16 @@ Oh, I like this. I like where this is going.
 Oh, yeah. Yeah. Yeah.
 
 315
-00:34:39,580 --> 00:34:52,770
-No, no, yes, that's right, yes, that's right, yes, I'm going to taste all my sweet juices,
+00:34:39,580 --> 00:34:47,580
+
 
 316
 00:34:52,970 --> 00:35:01,090
-yeah, all because of you, making me so crazy, you know what I mean, yeah, yeah, yeah, for
+
 
 317
 00:35:01,090 --> 00:35:10,770
-your cock, no, no, no, no, no, no, no, no, no, no, no, no, please let me ride your cock,
+
 
 318
 00:35:10,770 --> 00:35:12,370
@@ -1279,7 +1279,7 @@ I can't stand this.
 I need more than your fingers.
 
 321
-00:35:26,290 --> 00:35:37,370
+00:35:26,290 --> 00:35:34,290
 I got you so big.
 
 322
@@ -1288,11 +1288,11 @@ Oh, fuck. Oh shit. Oh, oh this pussy's killing me. Oh fuck
 
 323
 00:36:23,060 --> 00:36:28,400
-fun to have still. Don't you want to thrust your cock inside? Oh god it feels so good wrapped around
+
 
 324
 00:36:28,400 --> 00:37:03,560
-around my cock. Oh my god you feel so good. Oh god. Oh shit. Oh. Oh. Oh. Oh. Oh. Oh shit.
+
 
 325
 00:37:07,130 --> 00:37:11,250
@@ -1375,7 +1375,7 @@ Will you shove your cock in me, Daddy?
 No, you'll get your you'll get my cock soon enough
 
 345
-00:38:07,580 --> 00:38:15,600
+00:38:07,580 --> 00:38:15,580
 Now put your head down like I asked you to ass up. Yeah, there you go
 
 346
@@ -1400,7 +1400,7 @@ Uh huh.
 
 351
 00:38:37,940 --> 00:38:42,380
-If I make you cum, a nice big fat load inside my pussy, will you make it happen?
+
 
 352
 00:38:42,780 --> 00:38:43,820
@@ -1464,11 +1464,11 @@ You're such a tease.
 
 367
 00:39:07,110 --> 00:39:12,690
-mmm get that ass back up in the air get the arch in the back there you go there
+
 
 368
 00:39:12,690 --> 00:39:19,130
-you go oh how about if I just give you a big lip maybe the first inch is that
+
 
 369
 00:39:19,130 --> 00:39:19,410
@@ -1611,8 +1611,8 @@ I wanna give you all the pleasure in the whole world.
 Make your cup feel good every day.
 
 404
-00:42:09,500 --> 00:42:24,960
-I'm gonna come, I'm gonna come, faster, more, more, more, more, more, oh, oh, oh, oh, oh,
+00:42:09,500 --> 00:42:17,500
+
 
 405
 00:42:54,050 --> 00:43:24,030
@@ -1631,8 +1631,8 @@ Fuck oh
 Yeah
 
 409
-00:45:21,280 --> 00:45:30,040
-oh fuck yes yes oh it's so good it's like it was made for me it was made to fit inside my
+00:45:21,280 --> 00:45:29,280
+
 
 410
 00:45:30,040 --> 00:45:30,800
@@ -1643,20 +1643,20 @@ Do you like my pussy perfectly?
 I'm your personal pussy pocket.
 
 412
-00:46:03,470 --> 00:46:17,120
+00:46:03,470 --> 00:46:11,470
 Oh, thank you.
 
 413
-00:47:10,060 --> 00:47:39,580
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+00:47:10,060 --> 00:47:18,060
+
 
 414
 00:47:47,020 --> 00:48:13,340
-I just love teasing me and making me a mess yeah yeah yeah you know exactly how to use
+
 
 415
 00:48:13,340 --> 00:48:26,130
-your crook huh you like lots of practice huh yeah oh it's like you know all the right spots
+
 
 416
 00:48:26,130 --> 00:48:28,590
@@ -1680,15 +1680,15 @@ Oh, yeah, you're so fit. Oh, my God.
 
 421
 00:49:41,650 --> 00:49:47,750
-I know you love this pussy I can't wait till you're sharing it with someone it's gonna
+
 
 422
 00:49:47,750 --> 00:49:57,730
-be so much fun yeah can you imagine one cock stuffed in my pussy while the other one's
+
 
 423
 00:49:57,730 --> 00:50:07,370
-stuff down my throat it's very intriguing yeah i can't stop thinking about it like right now
+
 
 424
 00:50:07,370 --> 00:50:10,710
@@ -1696,7 +1696,7 @@ i just want to put that cock in my mouth while you're fucking me
 
 425
 00:50:13,770 --> 00:50:20,690
-we're gonna work on making that happen for you little lady yes you do but first let's work on
+
 
 426
 00:50:20,690 --> 00:50:23,450
@@ -1715,7 +1715,7 @@ I think I've got two loads for you tonight.
 Oh, yeah.
 
 430
-00:50:32,470 --> 00:50:42,920
+00:50:32,470 --> 00:50:40,470
 My God, just watch that long,
 
 431
@@ -1919,12 +1919,12 @@ Yeah.
 Yeah.
 
 481
-00:53:51,900 --> 00:54:03,620
-my legs just like that. Oh, fuck. Oh, fuck. Yeah. Yeah, nice and slow, baby. Nice and
+00:53:51,900 --> 00:53:59,900
+
 
 482
 00:54:03,620 --> 00:55:09,670
-I'm so sorry, mm-mm, ah, ah, mm, mm, ah, fuck, mm, mm, it's okay, ah, mm, ah, yeah, mm, ah, yes, yes, mm, yeah, ah, ah, ah, mm, ah, yes, yes, yes,
+
 
 483
 00:55:09,670 --> 00:55:13,650
@@ -1944,63 +1944,63 @@ I'm sure it is.
 
 487
 00:55:51,260 --> 00:55:58,520
-Please give me a fat load of my pussy dye, I need it, I've been craving it all day, I've
+
 
 488
 00:55:58,520 --> 00:56:02,620
-been thinking about it this whole time you were traveling here, before I saw a young
+
 
 489
 00:56:02,620 --> 00:56:09,700
-person who's been dreaming about it. I just need to be filled up finally by you, you know
+
 
 490
 00:56:09,700 --> 00:56:19,740
-what it feels like? A clean white cone dripping out of my pussy. Please, please, please, please,
+
 
 491
 00:56:19,780 --> 00:56:25,060
-I need to feel it. I need to feel it inside me. I need to feel it flowing inside my pussy.
+
 
 492
 00:56:25,180 --> 00:56:31,520
-I need to feel it flowing inside me. Please, please, please, please, please, please, please,
+
 
 493
 00:56:32,620 --> 00:56:36,120
-Please, please, please, please, please, please, please, please, please, please, please, please,
+
 
 494
 00:56:36,120 --> 00:56:38,020
-please, please, please, please, please, please, please, please, please, please, please, please,
+
 
 495
 00:56:38,020 --> 00:56:43,460
-please, please, please, please, please, please, please, please, please, please, please, please,
+
 
 496
 00:56:43,720 --> 00:56:44,840
-please, please, please, please, please, please, please, please, please, please, please, please,
+
 
 497
 00:56:44,840 --> 00:56:51,580
-please, please, please, please, please, please, please, please, please, please, please, please, please,
+
 
 498
 00:56:51,580 --> 00:56:56,560
-please, please, please, please, please, please, please, please, please, please, please, please, please,
+
 
 499
 00:56:56,560 --> 00:57:01,560
-Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 500
 00:57:01,560 --> 00:57:01,740
-oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 501
 00:57:01,740 --> 00:57:04,780
-oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 502
 00:57:26,060 --> 00:57:26,980
@@ -2139,8 +2139,8 @@ Please, please, please, please.
 Please.
 
 536
-00:59:01,520 --> 00:59:14,400
-Please, please come home honey, please, I'm begging you, please, I need it, I need it, I need it more than you do, I need it more than your cock needs it, please, please, please, please, please, please.
+00:59:01,520 --> 00:59:09,520
+
 
 537
 00:59:31,240 --> 00:59:32,460
@@ -2216,7 +2216,7 @@ That's my job.
 
 555
 01:00:52,960 --> 01:00:57,180
-I don't know how much cum is left in me, I tried to push it all out, but we'll see.
+
 
 556
 01:01:00,020 --> 01:01:01,300
@@ -2239,20 +2239,20 @@ Oh wow.
 Still going.
 
 561
-01:01:20,290 --> 01:01:49,060
-going. Oh, fuck. I'm trying. I don't think that's how this works. I think that's it,
+01:01:20,290 --> 01:01:28,290
+
 
 562
 01:01:49,060 --> 01:01:57,420
-it but that was quite a bit. Will you turn the shower on for me? Okay. Alright.
+
 
 563
 01:02:13,280 --> 01:02:27,120
-I need to get all this cum out of my fucking pussy and my body. I'm covered in it. I'm
+
 
 564
 01:02:27,120 --> 01:02:33,060
-so soft. It's like lotion. Natural lotion. You'll have to adjust the temperature yourself.
+
 
 565
 01:02:33,920 --> 01:02:34,480
@@ -2363,7 +2363,7 @@ There's more of where that came from.
 Teasing you with my glistening wet body.
 
 592
-01:04:04,800 --> 01:04:35,630
+01:04:04,800 --> 01:04:12,800
 You've got to give me a chance to recover at least 24 hours clean.
 
 593
@@ -2419,8 +2419,8 @@ It is.
 It's quite raw.
 
 606
-01:05:36,080 --> 01:06:25,160
-I'm telling you, you're not going to be able to resist me a few hours later when I'm begging you to get this pussy.
+01:05:36,080 --> 01:05:44,080
+
 
 607
 01:06:25,400 --> 01:06:27,140
@@ -2431,7 +2431,7 @@ It's all swollen and red.
 I'm going to have to get some help with you.
 
 609
-01:06:29,840 --> 01:07:14,540
+01:06:29,840 --> 01:06:37,840
 I'm going to be a bad girl.
 
 610
@@ -2451,7 +2451,7 @@ Who else would I be if not Melody Marks?
 The naughty little slut.
 
 614
-01:07:24,060 --> 01:08:06,900
+01:07:24,060 --> 01:07:32,060
 I'm already getting ready for round two.
 
 615
@@ -2459,7 +2459,7 @@ I'm already getting ready for round two.
 I'm going to get started now.
 
 616
-01:08:09,100 --> 01:09:08,160
+01:08:09,100 --> 01:08:17,100
 Oh no, a quirky girl.
 
 617
@@ -2483,12 +2483,12 @@ Um, he's up a bit.
 Yeah?
 
 622
-01:09:45,720 --> 01:09:59,720
-yeah yeah yes I did I told him about you know your that you're curious about you
+01:09:45,720 --> 01:09:53,720
+
 
 623
 01:10:00,110 --> 01:10:11,560
-know having some fun three of you know yes that's him okay okay slow down this
+
 
 624
 01:10:11,560 --> 01:10:18,320
@@ -2496,19 +2496,19 @@ is very hot this is much so this is my pen pal that I told you about
 
 625
 01:10:21,900 --> 01:10:26,440
-like about two or three yeah something like that yeah and it's been a while we were like well you
+
 
 626
 01:10:26,440 --> 01:10:32,700
-finally have to come to america and yeah meet us john's a good guy yeah well i'm a very open-minded
+
 
 627
 01:10:32,700 --> 01:10:39,180
-man connor and um anything that's why we get along anything that anything that makes my my little my
+
 
 628
 01:10:39,180 --> 01:10:46,500
-little baby here happy i'm i'm more than willing to oblige pretty well i must say thank you how
+
 
 629
 01:10:46,500 --> 01:10:47,280
@@ -2612,7 +2612,7 @@ It's been so long.
 
 654
 01:12:12,500 --> 01:12:16,420
-It's all, there's a lot going on, like my ADD kind of kicks in a little bit.
+
 
 655
 01:12:29,110 --> 01:12:30,690
@@ -2632,11 +2632,11 @@ It's like the feeling that you get as you fall.
 
 659
 01:12:35,270 --> 01:12:38,990
-That's why I can't do roller coasters. I was about to ask if we did roller coasters. I don't do them either.
+
 
 660
 01:12:39,250 --> 01:12:41,950
-I literally, if there was no railing here, I could lean back and feel fine.
+
 
 661
 01:12:42,250 --> 01:12:44,950
@@ -2664,7 +2664,7 @@ I don't think you guys have anything to worry about.
 
 667
 01:13:04,670 --> 01:13:10,530
-Remember what you got me into last year before she went for the kill. Um, yep, something like that
+
 
 668
 01:13:19,050 --> 01:13:21,050
@@ -2688,7 +2688,7 @@ Along our little walk and while we're getting to know each other
 
 673
 01:15:18,260 --> 01:15:24,380
-And I was wondering if we could stop in a little lingerie store and pick up something cute to put on for later
+
 
 674
 01:15:24,380 --> 01:15:27,440
@@ -2700,27 +2700,27 @@ so you agree let's that's a deal that's an absolute deal okay let's do it
 
 676
 01:15:33,440 --> 01:15:38,600
-all right let's uh let's just go to the let's head there like no need to fuck around yeah no
+
 
 677
 01:15:38,600 --> 01:15:42,860
-whatever next shop we see whatever one catches our eyes all right let's go up here then okay
+
 
 678
 01:15:43,660 --> 01:15:54,940
-we have to walk up the escalator yeah i know i'm lazy i'm a princess this is blasphemy this is
+
 
 679
 01:15:54,940 --> 01:16:01,640
-blasphemy what the heck also a really long escalator yeah this is yeah honestly i'm
+
 
 680
 01:16:01,640 --> 01:16:10,400
-suing i'm falling now yeah now we're suing yes i actually just went to the gym the past two days so
+
 
 681
 01:16:10,400 --> 01:16:28,400
-um yeah my thighs are already feeling it oh wow look at those guys oh yeah yeah
+
 
 682
 01:16:28,400 --> 01:16:31,320
@@ -2795,7 +2795,7 @@ I don't think you could.
 You didn't say that last time.
 
 700
-01:17:27,460 --> 01:17:38,730
+01:17:27,460 --> 01:17:35,460
 I love your hair.
 
 701
@@ -2808,7 +2808,7 @@ You're welcome.
 
 703
 01:17:40,570 --> 01:17:45,640
-I wanted to tell another girl that I liked her dress, but I was too nervous.
+
 
 704
 01:17:47,360 --> 01:17:49,120
@@ -2867,7 +2867,7 @@ Yeah.
 Is that a Red Bull?
 
 718
-01:18:38,580 --> 01:18:46,630
+01:18:38,580 --> 01:18:46,580
 A functioning escalator.
 
 719
@@ -2908,7 +2908,7 @@ Do you think that she can handle both of us?
 
 728
 01:19:17,860 --> 01:19:22,880
-I don't know. She's pretty small, but yeah, she seems up to the challenge though. Honestly, I think I'll I think
+
 
 729
 01:19:23,740 --> 01:19:25,400
@@ -2932,31 +2932,31 @@ Almost
 
 734
 01:19:54,820 --> 01:19:59,900
-Honestly, this is good for vacation, but I don't know how people live here. No, it doesn't seem very little
+
 
 735
 01:19:59,900 --> 01:20:04,800
-No, it doesn't seem very livable good place to visit. Yes. I would probably stay in
+
 
 736
 01:20:04,800 --> 01:20:12,820
-in an air-conditioned place most of the time but there's a uh but the heat does feel much better
+
 
 737
 01:20:12,820 --> 01:20:26,340
-than snow yes there's a lingerie shop right around here okay take the outfit there's a lot
+
 
 738
 01:20:26,340 --> 01:20:31,340
 of options in here i might have to get a few uh-oh what do you think
 
 739
-01:20:31,340 --> 01:20:41,400
+01:20:31,340 --> 01:20:39,340
 got a little sneak peek got something there
 
 740
-01:20:44,560 --> 01:21:44,080
-We'll get some of this cute red and black outfit and you'll wear me a doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doobly-doob
+01:20:44,560 --> 01:20:52,560
+
 
 741
 01:21:44,080 --> 01:21:45,160
@@ -2995,7 +2995,7 @@ You'll see the green thing pop up.
 Yeah, right there.
 
 750
-01:22:14,290 --> 01:22:44,620
+01:22:14,290 --> 01:22:22,290
 Think we're in big trouble, Tom?
 
 751
@@ -3011,7 +3011,7 @@ I think so.
 I think we'll be alright.
 
 754
-01:22:49,280 --> 01:22:59,160
+01:22:49,280 --> 01:22:57,280
 You want to start teasing on the top?
 
 755
@@ -3395,7 +3395,7 @@ I don't know how you can be slow-poking and being patient.
 Wow.
 
 850
-01:28:11,010 --> 01:28:23,150
+01:28:11,010 --> 01:28:19,010
 An inch lower, you've got a little more ass in there.
 
 851
@@ -3448,7 +3448,7 @@ Excited.
 
 863
 01:29:19,090 --> 01:29:22,210
-Alright, why don't you take it back over here, I'm going to get carried away.
+
 
 864
 01:29:24,150 --> 01:29:34,290
@@ -3523,7 +3523,7 @@ I'm going to grab a few from this side, too.
 That's good, too.
 
 882
-01:31:49,290 --> 01:32:21,020
+01:31:49,290 --> 01:31:57,290
 I feel bad I have lines from my panties, but I'm editing not too far.
 
 883
@@ -3711,20 +3711,20 @@ This is, yeah, this is the top.
 Oh, yeah, okay.
 
 929
-01:34:28,340 --> 01:34:36,390
+01:34:28,340 --> 01:34:36,340
 Okay, so this goes up here like this.
 
 930
-01:34:45,750 --> 01:34:56,410
-And then my leg goes into this part, like this, okay, I did it, all right, and my left
+01:34:45,750 --> 01:34:53,750
+
 
 931
 01:34:56,410 --> 01:35:00,950
-part goes in the back, this part goes in the back, this is so cute, I love it so much,
+
 
 932
 01:35:01,070 --> 01:35:09,110
-oh my god, oh, and then I put this on, like so, also, just to the other side, if I can
+
 
 933
 01:35:16,770 --> 01:35:17,210
@@ -3863,7 +3863,7 @@ Sure.
 I'm distracted.
 
 967
-01:37:28,400 --> 01:38:02,640
+01:37:28,400 --> 01:37:36,400
 I think we took so many cute photos already.
 
 968
@@ -3936,11 +3936,11 @@ Yes.
 
 985
 01:38:49,120 --> 01:38:54,940
-What is that little purring, moaning, kitty kitty sound coming out of you, Melody?
+
 
 986
 01:38:55,420 --> 01:38:59,420
-I think I'm getting a little tired of these photos and I want to do something a little
+
 
 987
 01:38:59,420 --> 01:39:00,060
@@ -4007,7 +4007,7 @@ I think so.
 Are you sitting?
 
 1003
-01:39:35,570 --> 01:39:47,320
+01:39:35,570 --> 01:39:43,570
 Are you guys going to help me?
 
 1004
@@ -4071,15 +4071,15 @@ I'm tiny
 Pull my foreskin back baby. There you go
 
 1019
-01:40:28,400 --> 01:40:45,460
-You guys are gonna have to like deep throat me so I can get some like good like cock sucking spit
+01:40:28,400 --> 01:40:36,400
+
 
 1020
 01:40:55,800 --> 01:40:58,860
 I know you really are enjoying this, aren't you?
 
 1021
-01:41:01,920 --> 01:41:16,000
+01:41:01,920 --> 01:41:09,920
 Oh my gosh, I have so much running through my mind, right?
 
 1022
@@ -4107,8 +4107,8 @@ There's too many options.
 I can't.
 
 1028
-01:41:34,070 --> 01:42:06,000
-you guys. Maybe next time. Is your pussy wet? I'm thinking about two cocks using me at the same time. It makes me so fucking horny. I just can't stop looking at them. They're ginormous. They're bigger than my face. Oh my god. I'm scared. I can't even get it all the way down my throat. I'm going to try
+01:41:34,070 --> 01:41:42,070
+
 
 1029
 01:42:14,250 --> 01:42:26,500
@@ -4127,7 +4127,7 @@ My fucking God.
 Oh my God.
 
 1033
-01:42:45,490 --> 01:43:12,690
+01:42:45,490 --> 01:42:53,490
 I had so many talks to please.
 
 1034
@@ -4136,7 +4136,7 @@ I'm like, which one do I pay more attention to?
 
 1035
 01:43:15,570 --> 01:43:20,410
-In the moment, I'm like, I want to suck both of them at the same time, but I don't think I can put them both in my mouth.
+
 
 1036
 01:43:33,460 --> 01:43:34,180
@@ -4215,7 +4215,7 @@ Right here?
 Yeah, right there's perfume.
 
 1055
-01:44:28,040 --> 01:44:36,910
+01:44:28,040 --> 01:44:36,040
 I made a mess. I'm all spitty.
 
 1056
@@ -4280,7 +4280,7 @@ Yes, please take turns
 
 1071
 01:46:47,190 --> 01:46:53,570
-she is. Talk about how pretty my eyes are. Bring your cock over here right now.
+
 
 1072
 01:46:56,950 --> 01:47:16,940
@@ -4288,7 +4288,7 @@ Yeah. Yeah. Yeah. Mm-hmm. Yeah. Oh. Oh, yeah. Oh, yeah. Yes.
 
 1073
 01:47:18,740 --> 01:47:25,880
-I can't wait to fucking push your cock with my pussy. Oh, my God. Oh, my God. Oh, my God.
+
 
 1074
 01:47:25,880 --> 01:47:28,420
@@ -4339,16 +4339,16 @@ Yeah, yeah, yeah, mm-hmm, mm-hmm, mm-hmm, mm-hmm, mm-hmm.
 Yeah, you wanna try?
 
 1086
-01:49:07,340 --> 01:49:37,320
-Yeah, use my pussy, use my pussy, that's what I want, yeah, you can fuck me as hard as you want, I'll do whatever you want to me, yeah, yeah, please, yeah, grab onto me as hard as you want, yeah, yes, yes, yes, yeah, ah, yeah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah
+01:49:07,340 --> 01:49:15,340
+
 
 1087
 01:49:40,720 --> 01:49:59,200
-It feels so good, yeah, just like that, yeah, I can't even think, I can't, bye, bye, it feels
+
 
 1088
 01:49:59,200 --> 01:50:04,120
-so good, thank you, thank you, thank you, thank you for giving me the cup, I need this
+
 
 1089
 01:50:04,120 --> 01:50:36,160
@@ -4447,12 +4447,12 @@ I can't imagine both of them and me
 this whole time.
 
 1113
-01:53:19,890 --> 01:53:52,600
-Oh my god, there's a spit I was talking about, oh my god, oh my god, your cock is so fun
+01:53:19,890 --> 01:53:27,890
+
 
 1114
 01:53:52,600 --> 01:54:01,260
-to stroke, there's just so much, like oh my god, oh my god, oh my god, oh my god, oh my
+
 
 1115
 01:54:01,260 --> 01:54:03,020
@@ -4496,14 +4496,14 @@ Fuck.
 
 1125
 01:55:05,920 --> 01:55:10,220
-Yeah, Zuni. Yeah, you want me to push you? Yeah, come on. Come on. Come on. Yeah.
+
 
 1126
 01:55:11,180 --> 01:55:14,820
 Oh, yeah. Yeah, yeah. You can lift me up. Yeah, you can lift me up. Yeah.
 
 1127
-01:55:15,020 --> 01:55:28,240
+01:55:15,020 --> 01:55:23,020
 Get back here while I do the first one.
 
 1128
@@ -4511,7 +4511,7 @@ Get back here while I do the first one.
 Yeah, I will do it. I will do it.
 
 1129
-01:55:41,130 --> 01:56:05,860
+01:55:41,130 --> 01:55:49,130
 So big. I got so lucky.
 
 1130
@@ -4555,11 +4555,11 @@ It's so good.
 You're just using your tongue.
 
 1140
-01:57:02,540 --> 01:57:17,420
+01:57:02,540 --> 01:57:10,540
 I don't want to do this anymore, I'm gonna be a little drunk.
 
 1141
-01:57:36,980 --> 01:57:48,920
+01:57:36,980 --> 01:57:44,980
 I love this, oh my God, oh my God, oh my God, oh my God.
 
 1142
@@ -4567,7 +4567,7 @@ I love this, oh my God, oh my God, oh my God, oh my God.
 Oh yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.
 
 1143
-01:57:53,260 --> 01:58:03,590
+01:57:53,260 --> 01:58:01,260
 Watch it, I love watching it slide in me, yeah, yeah.
 
 1144
@@ -4615,24 +4615,24 @@ Oh my gosh, yes, please.
 Oh, fuck.
 
 1155
-01:59:19,560 --> 01:59:29,300
+01:59:19,560 --> 01:59:27,560
 Oh, God.
 
 1156
-01:59:34,500 --> 01:59:43,540
+01:59:34,500 --> 01:59:42,500
 Yes, yes, yes.
 
 1157
-01:59:43,540 --> 02:00:28,250
-I feel so good, oh my god, oh my god, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah,
+01:59:43,540 --> 01:59:51,540
+
 
 1158
 02:00:28,250 --> 02:00:43,330
-I feel good, yeah, yeah, oh, yeah, oh, yeah, oh, yeah, oh, yeah, oh, yeah, mm-hmm, yeah, oh,
+
 
 1159
 02:00:57,680 --> 02:01:06,120
-watching is my favorite part, yeah, yeah, yeah, just watch it, spit on it, spit on my pussy,
+
 
 1160
 02:01:06,120 --> 02:01:06,140
@@ -4695,8 +4695,8 @@ You're not really high.
 I can't get my dick high that high.
 
 1175
-02:05:31,910 --> 02:09:47,840
-oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+02:05:31,910 --> 02:05:39,910
+
 
 1176
 02:09:47,840 --> 02:09:47,960
@@ -4747,8 +4747,8 @@ I guess it's my favorite position next to the piledrider.
 Sorry, I keep moving.
 
 1188
-02:12:16,960 --> 02:12:54,530
-I'm going to make you guys come inside of me and fill me up and not with just your clucks but with all your cum and drain your balls of my pussy and I'm going to walk out every single last drop of cum until there's none left.
+02:12:16,960 --> 02:12:24,960
+
 
 1189
 02:12:55,070 --> 02:12:56,270
@@ -4767,11 +4767,11 @@ Almost.
 Oh my god.
 
 1193
-02:13:32,750 --> 02:13:50,480
+02:13:32,750 --> 02:13:40,750
 You wanna lay on your back?
 
 1194
-02:14:13,230 --> 02:14:42,140
+02:14:13,230 --> 02:14:21,230
 oh my god oh my god oh yeah let's try to get comfy
 
 1195
@@ -4779,8 +4779,8 @@ oh my god oh my god oh yeah let's try to get comfy
 yeah i get comfy to fill my pussy up with all your cum
 
 1196
-02:14:54,340 --> 02:15:30,950
-Oh, yeah, oh, yeah, oh, yeah, oh, yeah, oh, yeah, oh, yeah, oh, yeah, oh, yeah, oh, yeah,
+02:14:54,340 --> 02:15:02,340
+
 
 1197
 02:15:37,220 --> 02:15:38,440
@@ -4816,15 +4816,15 @@ I don't think you are.
 
 1205
 02:16:33,560 --> 02:16:39,800
-Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 1206
 02:16:39,800 --> 02:16:48,640
-oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 1207
 02:16:48,640 --> 02:17:02,780
-oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
+
 
 1208
 02:17:02,780 --> 02:17:04,920
@@ -4899,7 +4899,7 @@ Oh, I love watching it drip out of me.
 It's so hot.
 
 1226
-02:18:51,170 --> 02:19:01,310
+02:18:51,170 --> 02:18:59,170
 Oh, I'm gonna get the rest of this out of me.
 
 1227
@@ -4915,7 +4915,7 @@ Double the load.
 Double the fun.
 
 1230
-02:19:09,430 --> 02:19:23,100
+02:19:09,430 --> 02:19:17,430
 you should follow me
 
 1231
@@ -4968,7 +4968,7 @@ Don't apologize.
 
 1243
 02:20:40,840 --> 02:20:48,200
-I don't sound sad because I only got two loads in me, so we're going to have to play again soon with a bigger mess.
+
 
 1244
 02:20:48,460 --> 02:20:49,540
@@ -5000,7 +5000,7 @@ Do you want to rinse off? You're welcome, Sue.
 
 1251
 02:21:06,960 --> 02:21:13,100
-it's like working a spaceship turning on another shower yeah i know what you mean
+
 
 1252
 02:21:13,100 --> 02:21:21,120
@@ -5039,7 +5039,7 @@ Slowly but surely.
 It's going to get, like, scoldering hot, like, immediately.
 
 1261
-02:22:07,860 --> 02:22:20,150
+02:22:07,860 --> 02:22:15,860
 Oh my gosh, it's still dripping out of me.
 
 1262
@@ -5091,7 +5091,7 @@ I would be careful.
 I'll pour it in for you.
 
 1274
-02:23:05,420 --> 02:23:19,950
+02:23:05,420 --> 02:23:13,420
 This is good water conservation as well.
 
 1275
@@ -5111,7 +5111,7 @@ I'm the best.
 What can I say?
 
 1279
-02:23:27,020 --> 02:23:38,630
+02:23:27,020 --> 02:23:35,020
 Nothing like a woman takes care of a man.
 
 1280
@@ -5188,7 +5188,7 @@ It got, it got hotter.
 
 1298
 02:24:23,620 --> 02:24:26,100
-Like, there's every time when you're, like, getting a shower, you were taking a shower,
+
 
 1299
 02:24:26,160 --> 02:24:26,680
@@ -5207,12 +5207,12 @@ This is always like the most wholesome part.
 Getting cleaned up.
 
 1303
-02:24:45,520 --> 02:24:57,080
-together. See, it's not that bad. It's relaxing. It's warm. It's like a hot tub.
+02:24:45,520 --> 02:24:53,520
+
 
 1304
 02:24:57,840 --> 02:25:24,680
-I'm getting used to it. Let's put a little floor out. Yeah. Yeah, fun time. You about to be my new pen pal? Yeah, I think you can start writing letters if you want. Yeah. We've already skipped that part. I don't know. You can always backtrack a little bit. You know, whatever.
+
 
 1305
 02:25:28,350 --> 02:25:29,030
@@ -5269,4 +5269,3 @@ No, I love them.
 1318
 02:25:55,560 --> 02:25:59,080
 Like, you gotta flame you somehow.
-

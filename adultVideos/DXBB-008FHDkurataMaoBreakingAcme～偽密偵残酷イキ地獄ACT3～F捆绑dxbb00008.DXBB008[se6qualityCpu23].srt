@@ -1,14 +1,14 @@
 1
-00:00:01,580 --> 00:00:10,910
+00:00:01,580 --> 00:00:09,580
 Thank you very much.
 
-2
+
 00:03:19,790 --> 00:03:20,490
 Thank you for your hard work.
 
 3
 00:03:21,730 --> 00:03:25,430
-It's been a while since I came back to Tokyo today, but you're the only one here, aren't you?
+
 
 4
 00:03:26,430 --> 00:03:27,450
@@ -103,7 +103,7 @@ I called you because I wanted you to stand up for me.
 I'll be ready, so please take care of me.
 
 27
-00:05:20,380 --> 00:06:11,200
+00:05:20,380 --> 00:05:28,380
 Please wake up, cute mouse.
 
 28
@@ -111,7 +111,7 @@ Please wake up, cute mouse.
 Hey.
 
 29
-00:06:14,660 --> 00:06:27,010
+00:06:14,660 --> 00:06:22,660
 What is this?
 
 30
@@ -131,7 +131,7 @@ Please.
 Please untie me quickly.
 
 34
-00:06:46,200 --> 00:07:02,150
+00:06:46,200 --> 00:06:54,200
 I just want to know who you are and why you are doing this.
 
 35
@@ -147,7 +147,7 @@ You are a stubborn woman.
 I don't want to hurt you.
 
 38
-00:07:20,300 --> 00:07:30,680
+00:07:20,300 --> 00:07:28,300
 You just need to tell me who you are.
 
 39
@@ -160,7 +160,7 @@ You don't have to be stupid.
 
 41
 00:07:39,100 --> 00:07:45,760
-You were looking at the management budget with a password that only I knew.
+
 
 42
 00:07:48,130 --> 00:07:51,230
@@ -271,7 +271,7 @@ I'm not a spy.
 It's not a Y.
 
 69
-00:09:26,360 --> 00:09:39,660
+00:09:26,360 --> 00:09:34,360
 Please let me go.
 
 70
@@ -371,7 +371,7 @@ If you can bear it, then bear it.
 No, stop it.
 
 94
-00:12:35,680 --> 00:13:00,180
+00:12:35,680 --> 00:12:43,680
 Let go of me.
 
 95
@@ -399,7 +399,7 @@ Who asked you to do it?
 You're right.
 
 101
-00:13:22,910 --> 00:13:59,260
+00:13:22,910 --> 00:13:30,910
 Let go of me.
 
 102
@@ -451,7 +451,7 @@ What's wrong with you?
 It's just a crime
 
 114
-00:16:33,860 --> 00:16:42,910
+00:16:33,860 --> 00:16:41,860
 If I were you, I'd say you're the criminal
 
 115
@@ -651,7 +651,7 @@ What did I do?
 I'll ask you right away.
 
 164
-00:24:35,450 --> 00:24:52,670
+00:24:35,450 --> 00:24:43,450
 It's getting hot.
 
 165
@@ -675,7 +675,7 @@ Where did you get hired?
 Where did you get hired?
 
 170
-00:25:36,030 --> 00:25:44,110
+00:25:36,030 --> 00:25:44,030
 You still don't like it?
 
 171
@@ -703,7 +703,7 @@ Can't you feel it?
 Hey.
 
 177
-00:26:15,870 --> 00:26:24,190
+00:26:15,870 --> 00:26:23,870
 What's wrong?
 
 178
@@ -755,7 +755,7 @@ Right?
 You must be tired.
 
 190
-00:27:21,580 --> 00:27:33,380
+00:27:21,580 --> 00:27:29,580
 What have you been looking for?
 
 191
@@ -795,7 +795,7 @@ Do you hear it?
 Do you hear it deep in your body?
 
 200
-00:28:06,110 --> 00:28:20,050
+00:28:06,110 --> 00:28:14,110
 Do you want me to continue?
 
 201
@@ -815,7 +815,7 @@ Do you want me to continue?
 Do you want me to continue?
 
 205
-00:28:29,230 --> 00:28:41,380
+00:28:29,230 --> 00:28:37,230
 Do you want me to continue?
 
 206
@@ -823,11 +823,11 @@ Do you want me to continue?
 Do you want me to continue?
 
 207
-00:28:50,160 --> 00:29:06,790
+00:28:50,160 --> 00:28:58,160
 Do you want me to continue?
 
 208
-00:29:06,790 --> 00:29:18,180
+00:29:06,790 --> 00:29:14,790
 I'll cut it for you so you don't have to go home.
 
 209
@@ -843,7 +843,7 @@ You don't need this.
 What are you going to do?
 
 212
-00:30:28,130 --> 00:30:36,410
+00:30:28,130 --> 00:30:36,130
 What's wrong with you?
 
 213
@@ -879,7 +879,7 @@ It doesn't hit.
 It seems that there are quite a few people in Mexico.
 
 221
-00:32:02,300 --> 00:32:22,080
+00:32:02,300 --> 00:32:10,300
 Shall we go again?
 
 222
@@ -907,7 +907,7 @@ Oh, my God.
 Oh, my God.
 
 228
-00:32:49,580 --> 00:32:57,970
+00:32:49,580 --> 00:32:57,580
 Oh, my God.
 
 229
@@ -959,7 +959,7 @@ Say it!
 Say it!
 
 241
-00:33:57,010 --> 00:34:06,700
+00:33:57,010 --> 00:34:05,010
 Who asked you to do this?
 
 242
@@ -971,15 +971,15 @@ What's wrong?
 Do you like it?
 
 244
-00:34:29,280 --> 00:34:37,680
+00:34:29,280 --> 00:34:37,280
 Do you like it?
 
 245
-00:34:37,680 --> 00:35:06,220
+00:34:37,680 --> 00:34:45,680
 Hey, where are you going to continue?
 
 246
-00:35:09,360 --> 00:35:49,700
+00:35:09,360 --> 00:35:17,360
 Does it feel good?
 
 247
@@ -995,8 +995,8 @@ Remember this vibration.
 No
 
 250
-00:35:55,780 --> 00:37:16,800
-No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no
+00:35:55,780 --> 00:36:03,780
+
 
 251
 00:37:24,480 --> 00:37:26,060
@@ -1019,7 +1019,7 @@ Let's go.
 Are you going to go?
 
 256
-00:37:44,320 --> 00:37:54,280
+00:37:44,320 --> 00:37:52,320
 I can't believe it.
 
 257
@@ -1055,11 +1055,11 @@ How is it?
 How is it?
 
 265
-00:39:08,140 --> 00:39:22,470
+00:39:08,140 --> 00:39:16,140
 Have you ever been trained like this?
 
 266
-00:39:24,570 --> 00:39:36,510
+00:39:24,570 --> 00:39:32,570
 How is it?
 
 267
@@ -1067,7 +1067,7 @@ How is it?
 I'll give it to you.
 
 268
-00:39:47,080 --> 00:41:15,940
+00:39:47,080 --> 00:39:55,080
 Are you clear now?
 
 269
@@ -1107,7 +1107,7 @@ Don't cry.
 That's a lot of people, isn't it?
 
 278
-00:42:13,610 --> 00:42:24,750
+00:42:13,610 --> 00:42:21,610
 You're crying, aren't you?
 
 279
@@ -1139,7 +1139,7 @@ I don't know what you're talking about.
 I don't know what you're talking about.
 
 286
-00:42:54,180 --> 00:43:28,500
+00:42:54,180 --> 00:43:02,180
 I don't know what you're talking about.
 
 287
@@ -1267,7 +1267,7 @@ What's wrong with you?
 You're already tired, aren't you?
 
 318
-00:47:18,960 --> 00:47:36,010
+00:47:18,960 --> 00:47:26,960
 You're always so sensitive, aren't you?
 
 319
@@ -1287,7 +1287,7 @@ What's wrong?
 Look, this is dangerous.
 
 323
-00:47:46,970 --> 00:48:14,180
+00:47:46,970 --> 00:47:54,970
 How is it?
 
 324
@@ -1295,7 +1295,7 @@ How is it?
 How is it?
 
 325
-00:48:19,960 --> 00:48:47,390
+00:48:19,960 --> 00:48:27,960
 What's wrong with your hand?
 
 326
@@ -1303,7 +1303,7 @@ What's wrong with your hand?
 What's wrong with your hand?
 
 327
-00:48:47,950 --> 00:49:33,720
+00:48:47,950 --> 00:48:55,950
 It's getting hotter than before.
 
 328
@@ -1311,11 +1311,11 @@ It's getting hotter than before.
 What's wrong with your hand?
 
 329
-00:49:45,160 --> 00:50:30,760
+00:49:45,160 --> 00:49:53,160
 It's getting hotter than before.
 
 330
-00:50:32,540 --> 00:50:42,610
+00:50:32,540 --> 00:50:40,540
 How do you like it?
 
 331
@@ -1327,7 +1327,7 @@ Which one do you like better?
 I like this one.
 
 333
-00:50:49,850 --> 00:50:59,030
+00:50:49,850 --> 00:50:57,850
 Does it feel good?
 
 334
@@ -1339,7 +1339,7 @@ Come on, run away.
 What's wrong?
 
 336
-00:55:13,030 --> 00:55:44,920
+00:55:13,030 --> 00:55:21,030
 What's wrong?
 
 337
@@ -1347,7 +1347,7 @@ What's wrong?
 Do something with your own strength.
 
 338
-00:56:41,800 --> 00:57:05,300
+00:56:41,800 --> 00:56:49,800
 You're going crazy.
 
 339
@@ -1367,7 +1367,7 @@ Oh, you're going to hit your head.
 What do you think?
 
 343
-00:58:29,040 --> 00:58:46,990
+00:58:29,040 --> 00:58:37,040
 It's the best.
 
 344
@@ -1391,7 +1391,7 @@ Are you scared?
 What do you think?
 
 349
-01:00:08,650 --> 01:00:33,530
+01:00:08,650 --> 01:00:16,650
 What do you think?
 
 350
@@ -1419,7 +1419,7 @@ Look, look.
 Look, look.
 
 356
-01:05:23,600 --> 01:05:33,060
+01:05:23,600 --> 01:05:31,600
 Can you still not lose?
 
 357
@@ -1443,7 +1443,7 @@ You're going, aren't you?
 You haven't gone yet, so it's a pity.
 
 362
-01:07:13,630 --> 01:07:36,950
+01:07:13,630 --> 01:07:21,630
 You've gone, haven't you?
 
 363
@@ -1455,7 +1455,7 @@ You've gone, haven't you?
 You've gone, haven't you?
 
 365
-01:07:49,100 --> 01:08:17,090
+01:07:49,100 --> 01:07:57,100
 You've gone, haven't you?
 
 366
@@ -1463,7 +1463,7 @@ You've gone, haven't you?
 You've gone, haven't you?
 
 367
-01:08:44,240 --> 01:09:11,950
+01:08:44,240 --> 01:08:52,240
 You've gone, haven't you?
 
 368
@@ -1519,7 +1519,7 @@ How is it?
 How is it? How is it? How is it?
 
 381
-01:09:51,390 --> 01:10:12,760
+01:09:51,390 --> 01:09:59,390
 Now, exhale.
 
 382
@@ -1535,7 +1535,7 @@ I'm going to put it on your head.
 I'm going to put it on your head.
 
 385
-01:10:50,410 --> 01:11:02,820
+01:10:50,410 --> 01:10:58,410
 I'm going to put it on your head.
 
 386
@@ -1575,12 +1575,12 @@ I'm going to put it on your head.
 I'm going to put it on your head.
 
 395
-01:11:46,340 --> 01:12:04,260
+01:11:46,340 --> 01:11:54,340
 I'm going to put it on your head.
 
 396
-01:12:04,260 --> 01:14:17,890
-It's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay, it's okay.
+01:12:04,260 --> 01:12:12,260
+
 
 397
 01:15:58,530 --> 01:16:06,640
@@ -1591,7 +1591,7 @@ Thank you for watching!
 If you admit it, how is it?
 
 399
-01:16:31,380 --> 01:16:46,680
+01:16:31,380 --> 01:16:39,380
 Do you feel good?
 
 400
@@ -1619,19 +1619,19 @@ You want to feel good, don't you?
 What are you going to do next?
 
 406
-01:18:22,790 --> 01:18:33,740
+01:18:22,790 --> 01:18:30,790
 You've already fallen down to the point where you're going to fall.
 
 407
-01:18:38,470 --> 01:19:11,520
+01:18:38,470 --> 01:18:46,470
 You want to have a lot of fun, don't you?
 
 408
-01:19:15,120 --> 01:19:39,910
+01:19:15,120 --> 01:19:23,120
 It's not going to be easy with just your fingers.
 
 409
-01:19:41,670 --> 01:19:56,780
+01:19:41,670 --> 01:19:49,670
 I want you to do a lot more.
 
 410
@@ -1643,7 +1643,7 @@ Well, that's it.
 Let's see how much you can do.
 
 412
-01:23:07,450 --> 01:23:18,330
+01:23:07,450 --> 01:23:15,450
 It's a pity, but you can do it.
 
 413
@@ -1655,7 +1655,7 @@ You can do it.
 It feels good, right?
 
 415
-01:23:35,670 --> 01:23:58,220
+01:23:35,670 --> 01:23:43,670
 You can do it.
 
 416
@@ -1683,7 +1683,7 @@ You're in.
 This is it.
 
 422
-01:24:27,860 --> 01:24:42,110
+01:24:27,860 --> 01:24:35,860
 How is it?
 
 423
@@ -1699,7 +1699,7 @@ I'm going to suck it in.
 Look.
 
 426
-01:25:02,530 --> 01:25:34,660
+01:25:02,530 --> 01:25:10,530
 Can you do it?
 
 427
@@ -1719,8 +1719,8 @@ You have a lot of power.
 You have a lot of power.
 
 431
-01:25:53,880 --> 01:27:17,040
-Come on, come on, come on, come on, come on, come on, come on, come on, come on, come on.
+01:25:53,880 --> 01:26:01,880
+
 
 432
 01:29:35,200 --> 01:29:36,160
@@ -1823,7 +1823,7 @@ You don't want it, do you?
 Look, it's coming.
 
 457
-01:34:36,260 --> 01:34:56,740
+01:34:36,260 --> 01:34:44,260
 You wanted this, didn't you?
 
 458
@@ -1839,11 +1839,11 @@ Oh
 It's all wet.
 
 461
-01:37:08,550 --> 01:39:03,690
+01:37:08,550 --> 01:37:16,550
 You're a good boy.
 
 462
-01:39:09,260 --> 01:39:21,540
+01:39:09,260 --> 01:39:17,260
 Are you okay?
 
 463
@@ -1851,7 +1851,7 @@ Are you okay?
 I'm okay.
 
 464
-01:41:49,940 --> 01:42:40,480
+01:41:49,940 --> 01:41:57,940
 It was good, wasn't it?
 
 465
@@ -1859,7 +1859,7 @@ It was good, wasn't it?
 I'm okay.
 
 466
-01:44:48,330 --> 01:45:04,710
+01:44:48,330 --> 01:44:56,330
 I'm okay.
 
 467
@@ -1869,4 +1869,3 @@ I'm okay.
 468
 01:51:10,090 --> 01:51:15,030
 Oh, oh, oh.
-

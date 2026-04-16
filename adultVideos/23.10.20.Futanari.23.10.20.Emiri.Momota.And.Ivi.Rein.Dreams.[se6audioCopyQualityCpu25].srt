@@ -147,7 +147,7 @@ I'll call this person right away.
 Thank you.
 
 38
-00:02:48,210 --> 00:03:11,620
+00:02:48,210 --> 00:02:56,210
 That's a nice dress.
 
 39
@@ -159,7 +159,7 @@ This is Emily.
 Please come in.
 
 41
-00:03:19,620 --> 00:03:30,210
+00:03:19,620 --> 00:03:27,620
 So, Emily, what did you do today?
 
 42
@@ -179,7 +179,7 @@ It's like I'm the queen of Egypt, the queen of Egypt.
 And I have a dream of becoming the king of Egypt.
 
 46
-00:03:50,550 --> 00:04:02,830
+00:03:50,550 --> 00:03:58,550
 
 
 47
@@ -191,7 +191,7 @@ That dream is very intense.
 I've been having that dream every day for the past few weeks.
 
 49
-00:04:21,450 --> 00:04:51,430
+00:04:21,450 --> 00:04:29,450
 
 
 50
@@ -263,7 +263,7 @@ Hey, don't tease me!
 Emily, I finally found you.
 
 67
-00:08:02,110 --> 00:08:19,080
+00:08:02,110 --> 00:08:10,110
 Stop it. This is not funny.
 
 68
@@ -275,7 +275,7 @@ This is not a dream.
 We can be together again.
 
 70
-00:08:27,660 --> 00:08:36,950
+00:08:27,660 --> 00:08:35,660
 Let's rewrite our memories forever.
 
 71
@@ -291,11 +291,11 @@ I'm really sorry for making you wait so long.
 I'm sorry.
 
 74
-00:13:37,960 --> 00:13:47,640
+00:13:37,960 --> 00:13:45,960
 Oh
 
 75
-00:15:09,180 --> 00:16:45,820
+00:15:09,180 --> 00:15:17,180
 
 
 76
@@ -303,10 +303,9 @@ Oh
 I've been thinking about you for a long time.
 
 77
-00:17:19,380 --> 00:17:29,880
+00:17:19,380 --> 00:17:27,380
 I want you to love me more.
 
 78
 00:17:36,220 --> 00:17:39,080
 I want you to love me more.
-
